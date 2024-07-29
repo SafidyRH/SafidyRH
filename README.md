@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SafidyRH
-- 👀 I’m interested in Electronic-Automatic-Embedded System,Software Engineering and AI/ML
-- 🌱 I’m currently learning on these fields in my High-School University at Ecole Superieur Polytechnique d'Antananrivo and I am looking for a job opportunity to start my engineering career
-- 📫 This is my social network account for reach me : 
-        Facebook: Safidy RH
+- 👀 I’m interested in Electronic-Automatic-Embedded System and Software Engineering
+
 
 <!---
 SafidyRH/SafidyRH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
