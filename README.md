@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SafidyRH
-- 👀 I’m interested in Electronic-Automatic-Embedded System and Software Engineering
+- 👀 I’m interested in Software Engineering
 
 
 <!---
